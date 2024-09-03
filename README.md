@@ -1,5 +1,5 @@
 # Employee Data Tracking Dashboard for HR
-<br>
+
 ### 📹 Dashboard Video Demo: [Watch Here](https://www.youtube.com/watch?v=Db-HcpitqwM)
 <br>
 
