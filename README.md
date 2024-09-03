@@ -3,7 +3,8 @@
 
 
 <br>
-![Dashboard Preview](your-image-link-here)
+### 📹 Dashboard Video Demo: [Watch Here](https://www.youtube.com/watch?v=Db-HcpitqwM)
+
 
 <br>
 
@@ -30,8 +31,9 @@ Additionally, created custom columns for:
 These calculations offer detailed insights into employee attendance patterns, enabling more informed HR decisions.
 
 <br>
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/1516e778-93f7-44ee-a903-37087a7f2cc1)
+)
 
-### 📹 Dashboard Video Demo: [Watch Here](![image](https://github.com/user-attachments/assets/34e1577d-4f85-4966-b21c-fbc18fff0caf)
 
 
 ### ⏳ Time Savings
