@@ -6,6 +6,7 @@
 ### 📹 Dashboard Video Demo: [Watch Here](https://www.youtube.com/watch?v=Db-HcpitqwM)
 
 
+
 <br>
 
 ### 📊 Interactive Power BI Dashboard
@@ -31,8 +32,8 @@ Additionally, created custom columns for:
 These calculations offer detailed insights into employee attendance patterns, enabling more informed HR decisions.
 
 <br>
-![Dashboard Preview](![image](https://github.com/user-attachments/assets/1516e778-93f7-44ee-a903-37087a7f2cc1)
-)
+
+![image](https://github.com/user-attachments/assets/69d355b3-df21-4e5d-aa31-4fb2bb8ec1b9)
 
 
 
