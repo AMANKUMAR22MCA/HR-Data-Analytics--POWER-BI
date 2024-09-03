@@ -1,4 +1,7 @@
 # Employee Data Tracking Dashboard for HR
+<br>
+### 📹 Dashboard Video Demo: [Watch Here](https://www.youtube.com/watch?v=Db-HcpitqwM)
+<br>
 
 ### 📊 Interactive Power BI Dashboard
 Designed a comprehensive Power BI dashboard to track critical HR metrics, including working hours, attendance, performance, and leave management. This dashboard provides the HR team with a clear, real-time view of employee data, significantly streamlining HR processes.
@@ -29,4 +32,7 @@ By integrating Power BI with Excel, this dashboard has automated many manual HR 
 
 <br>
 
-### 📹 Dashboard Video Demo: [Watch Here](https://www.youtube.com/watch?v=Db-HcpitqwM)
+
+![image](https://github.com/user-attachments/assets/aeb72605-c621-477d-bd7c-4ab858376224)
+
+
