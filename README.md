@@ -1,6 +1,9 @@
 # Employee Data Tracking Dashboard for HR
 
-### 📹 Dashboard Video Demo: [Watch Here](https://www.youtube.com/watch?v=Db-HcpitqwM)
+
+
+<br>
+![Dashboard Preview](your-image-link-here)
 
 <br>
 
@@ -27,6 +30,9 @@ Additionally, created custom columns for:
 These calculations offer detailed insights into employee attendance patterns, enabling more informed HR decisions.
 
 <br>
+
+### 📹 Dashboard Video Demo: [Watch Here](![image](https://github.com/user-attachments/assets/34e1577d-4f85-4966-b21c-fbc18fff0caf)
+
 
 ### ⏳ Time Savings
 By integrating Power BI with Excel, this dashboard has automated many manual HR tasks, saving the team 3-4 hours of work daily. The combination of powerful data visualization and advanced calculations has made HR processes more efficient and data-driven.
